@@ -1,0 +1,150 @@
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe.config
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.pdb
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.AssemblyReference.cache
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Form1.resources
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Properties.Resources.resources
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.GenerateResource.cache
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.CoreCompileInputs.cache
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.pdb
+C:\Users\YOUNDEK\OneDrive\바탕 화면\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe.config
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe.config
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.pdb
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.AssemblyReference.cache
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe.config
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Form1.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Properties.Resources.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.GenerateResource.cache
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.CoreCompileInputs.cache
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.pdb
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\MySql.Data.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Buffers.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Memory.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\ZstdSharp.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.pdb
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\MySql.Data.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Buffers.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Memory.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayPr.EB12E01E.Up2Date
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormLogin.resources
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe.config
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.pdb
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\MySql.Data.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Buffers.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Memory.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\ZstdSharp.dll
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.pdb
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\MySql.Data.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Buffers.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Memory.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.AssemblyReference.cache
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe.config
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Form1.resources
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormLogin.resources
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Properties.Resources.resources
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.GenerateResource.cache
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.CoreCompileInputs.cache
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayPr.EB12E01E.Up2Date
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.pdb
+C:\Users\금정산2-PC19\Documents\카카오톡 받은 파일\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormBadd.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe.config
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.exe
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\OneDayProject2.pdb
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\MySql.Data.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Buffers.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Memory.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\ZstdSharp.dll
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.pdb
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\Google.Protobuf.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\MySql.Data.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Buffers.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Memory.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.AssemblyReference.cache
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe.config
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Form1.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormBadd.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormLogin.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormReg.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.Properties.Resources.resources
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.GenerateResource.cache
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.csproj.CoreCompileInputs.cache
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayPr.EB12E01E.Up2Date
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.exe
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.pdb
+C:\Users\sehs3\Desktop\OneDayProject2\OneDayProject2\OneDayProject2\obj\Debug\OneDayProject2.FormMy.resources
