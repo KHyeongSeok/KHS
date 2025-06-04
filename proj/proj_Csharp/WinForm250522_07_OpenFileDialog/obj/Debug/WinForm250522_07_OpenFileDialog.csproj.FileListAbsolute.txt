@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\bin\Debug\WinForm250522_07_OpenFileDialog.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\bin\Debug\WinForm250522_07_OpenFileDialog.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\bin\Debug\WinForm250522_07_OpenFileDialog.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_07_OpenFileDialog\obj\Debug\WinForm250522_07_OpenFileDialog.exe.config

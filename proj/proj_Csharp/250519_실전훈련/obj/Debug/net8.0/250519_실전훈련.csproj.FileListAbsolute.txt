@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\bin\Debug\net8.0\250519_실전훈련.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\bin\Debug\net8.0\250519_실전훈련.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\bin\Debug\net8.0\250519_실전훈련.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\bin\Debug\net8.0\250519_실전훈련.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\bin\Debug\net8.0\250519_실전훈련.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\refint\250519_실전훈련.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\250519_실전훈련.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_실전훈련\obj\Debug\net8.0\ref\250519_실전훈련.dll

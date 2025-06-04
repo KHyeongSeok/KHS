@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\bin\Debug\WinForm250521_04_ComboBox.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\bin\Debug\WinForm250521_04_ComboBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\bin\Debug\WinForm250521_04_ComboBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_04_ComboBox\obj\Debug\WinForm250521_04_ComboBox.exe.config

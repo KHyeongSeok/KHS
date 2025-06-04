@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\bin\Debug\WinForm250521_01_MaskedTextBox.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\bin\Debug\WinForm250521_01_MaskedTextBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\bin\Debug\WinForm250521_01_MaskedTextBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_01_MaskedTextBox\obj\Debug\WinForm250521_01_MaskedTextBox.exe.config

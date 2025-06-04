@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\bin\Debug\net8.0\250515_constreadonly.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\bin\Debug\net8.0\250515_constreadonly.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\bin\Debug\net8.0\250515_constreadonly.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\bin\Debug\net8.0\250515_constreadonly.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\bin\Debug\net8.0\250515_constreadonly.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\refint\250515_constreadonly.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\250515_constreadonly.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_constreadonly\obj\Debug\net8.0\ref\250515_constreadonly.dll

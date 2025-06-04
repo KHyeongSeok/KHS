@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\bin\Debug\WinForm250520_CheckAnsRadio.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\bin\Debug\WinForm250520_CheckAnsRadio.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\bin\Debug\WinForm250520_CheckAnsRadio.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_CheckAnsRadio\obj\Debug\WinForm250520_CheckAnsRadio.exe.config

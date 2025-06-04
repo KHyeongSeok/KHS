@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\bin\Debug\WinForm250522_09_GDI.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\bin\Debug\WinForm250522_09_GDI.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\bin\Debug\WinForm250522_09_GDI.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_09_GDI\obj\Debug\WinForm250522_09_GDI.exe.config

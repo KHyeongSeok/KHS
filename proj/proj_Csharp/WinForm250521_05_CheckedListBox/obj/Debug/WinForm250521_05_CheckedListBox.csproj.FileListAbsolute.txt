@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\bin\Debug\WinForm250521_05_CheckedListBox.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\bin\Debug\WinForm250521_05_CheckedListBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\bin\Debug\WinForm250521_05_CheckedListBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_05_CheckedListBox\obj\Debug\WinForm250521_05_CheckedListBox.exe.config

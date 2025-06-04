@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAC15\uD615\uC11D\\Desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_Csharp\\WinForm250522_03_Timer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82772164-E50F-410C-936B-482508EC1582}|WinfForm250522_03_Timer.csproj|c:\\users\\\uAC15\uD615\uC11D\\desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_csharp\\winform250522_03_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82772164-E50F-410C-936B-482508EC1582}|WinfForm250522_03_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82772164-E50F-410C-936B-482508EC1582}|WinfForm250522_03_Timer.csproj|C:\\Users\\\uAC15\uD615\uC11D\\Desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_Csharp\\WinForm250522_03_Timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82772164-E50F-410C-936B-482508EC1582}|WinfForm250522_03_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\uAC15\uD615\uC11D\\Desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_Csharp\\WinForm250522_03_Timer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\uAC15\uD615\uC11D\\Desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_Csharp\\WinForm250522_03_Timer\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:08:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uAC15\uD615\uC11D\\Desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_Csharp\\WinForm250522_03_Timer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\uAC15\uD615\uC11D\\Desktop\\\uC2A4\uB9C8\uD2B8\uD329\uD1A0\uB9AC\\proj_Csharp\\WinForm250522_03_Timer\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:08:07.588Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

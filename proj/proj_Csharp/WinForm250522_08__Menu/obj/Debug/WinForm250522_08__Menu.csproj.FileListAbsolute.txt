@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\bin\Debug\WinForm250522_08__Menu.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\bin\Debug\WinForm250522_08__Menu.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\bin\Debug\WinForm250522_08__Menu.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_08__Menu\obj\Debug\WinForm250522_08__Menu.exe.config

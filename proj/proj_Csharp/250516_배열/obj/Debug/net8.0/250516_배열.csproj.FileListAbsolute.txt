@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\bin\Debug\net8.0\250516_배열.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\bin\Debug\net8.0\250516_배열.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\bin\Debug\net8.0\250516_배열.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\bin\Debug\net8.0\250516_배열.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\bin\Debug\net8.0\250516_배열.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\refint\250516_배열.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\250516_배열.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250516_배열\obj\Debug\net8.0\ref\250516_배열.dll

@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\bin\Debug\WinForm250520_덱스트박스.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\bin\Debug\WinForm250520_덱스트박스.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\bin\Debug\WinForm250520_덱스트박스.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_덱스트박스\obj\Debug\WinForm250520_덱스트박스.exe.config

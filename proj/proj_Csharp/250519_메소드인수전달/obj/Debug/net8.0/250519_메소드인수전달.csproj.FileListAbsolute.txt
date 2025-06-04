@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\bin\Debug\net8.0\250519_메소드인수전달.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\bin\Debug\net8.0\250519_메소드인수전달.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\bin\Debug\net8.0\250519_메소드인수전달.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\bin\Debug\net8.0\250519_메소드인수전달.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\bin\Debug\net8.0\250519_메소드인수전달.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\refint\250519_메소드인수전달.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\250519_메소드인수전달.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_메소드인수전달\obj\Debug\net8.0\ref\250519_메소드인수전달.dll

@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\bin\Debug\net8.0\250514_001.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\bin\Debug\net8.0\250514_001.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\bin\Debug\net8.0\250514_001.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\bin\Debug\net8.0\250514_001.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\bin\Debug\net8.0\250514_001.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\refint\250514_001.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\250514_001.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250514_001\obj\Debug\net8.0\ref\250514_001.dll

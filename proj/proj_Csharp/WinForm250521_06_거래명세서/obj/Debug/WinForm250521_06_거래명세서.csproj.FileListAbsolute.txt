@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\bin\Debug\WinForm250521_06_거래명세서.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\bin\Debug\WinForm250521_06_거래명세서.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\bin\Debug\WinForm250521_06_거래명세서.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_06_거래명세서\obj\Debug\WinForm250521_06_거래명세서.exe.config

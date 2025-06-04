@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\bin\Debug\net8.0\250519_디폴트명명된.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\bin\Debug\net8.0\250519_디폴트명명된.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\bin\Debug\net8.0\250519_디폴트명명된.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\bin\Debug\net8.0\250519_디폴트명명된.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\bin\Debug\net8.0\250519_디폴트명명된.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\refint\250519_디폴트명명된.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\250519_디폴트명명된.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_디폴트명명된\obj\Debug\net8.0\ref\250519_디폴트명명된.dll

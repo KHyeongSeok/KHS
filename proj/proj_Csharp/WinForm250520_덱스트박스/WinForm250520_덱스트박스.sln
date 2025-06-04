@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm250520_덱스트박스", "WinForm250520_덱스트박스.csproj", "{1EFC2889-C60C-4B3C-917D-56249BA84803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFC2889-C60C-4B3C-917D-56249BA84803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFC2889-C60C-4B3C-917D-56249BA84803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFC2889-C60C-4B3C-917D-56249BA84803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFC2889-C60C-4B3C-917D-56249BA84803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24801E1-779C-4D3D-A70A-DAB85DE7C38C}
+	EndGlobalSection
+EndGlobal

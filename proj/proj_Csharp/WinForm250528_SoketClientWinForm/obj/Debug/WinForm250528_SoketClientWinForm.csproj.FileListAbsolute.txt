@@ -1,0 +1,10 @@
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.csproj.AssemblyReference.cache
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.Form1.resources
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.Properties.Resources.resources
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.csproj.GenerateResource.cache
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.csproj.CoreCompileInputs.cache
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\bin\Debug\WinForm250528_SoketClientWinForm.exe.config
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\bin\Debug\WinForm250528_SoketClientWinForm.exe
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\bin\Debug\WinForm250528_SoketClientWinForm.pdb
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.exe
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SoketClientWinForm\obj\Debug\WinForm250528_SoketClientWinForm.pdb

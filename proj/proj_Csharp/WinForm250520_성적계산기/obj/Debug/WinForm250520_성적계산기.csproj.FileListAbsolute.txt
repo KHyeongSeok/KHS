@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\bin\Debug\WinForm250520_성적계산기.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\bin\Debug\WinForm250520_성적계산기.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\bin\Debug\WinForm250520_성적계산기.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_성적계산기\obj\Debug\WinForm250520_성적계산기.exe.config

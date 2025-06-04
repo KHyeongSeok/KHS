@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\bin\Debug\WinForm250520_login.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\bin\Debug\WinForm250520_login.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\bin\Debug\WinForm250520_login.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_login\obj\Debug\WinForm250520_login.exe.config

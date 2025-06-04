@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\bin\Debug\WinForm250520_ToggleButton.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\bin\Debug\WinForm250520_ToggleButton.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\bin\Debug\WinForm250520_ToggleButton.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_ToggleButton\obj\Debug\WinForm250520_ToggleButton.exe.config

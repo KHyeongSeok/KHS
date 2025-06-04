@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\bin\Debug\net8.0\250515_제어구조1.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\bin\Debug\net8.0\250515_제어구조1.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\bin\Debug\net8.0\250515_제어구조1.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\bin\Debug\net8.0\250515_제어구조1.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\bin\Debug\net8.0\250515_제어구조1.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\refint\250515_제어구조1.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\250515_제어구조1.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250515_제어구조1\obj\Debug\net8.0\ref\250515_제어구조1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPF250523_05_WinFormInWPF/1.0.0": {
+        "runtime": {
+          "WPF250523_05_WinFormInWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF250523_05_WinFormInWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

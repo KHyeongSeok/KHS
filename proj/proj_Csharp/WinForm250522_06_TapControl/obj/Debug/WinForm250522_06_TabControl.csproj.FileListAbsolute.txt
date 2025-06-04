@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\bin\Debug\WinForm250522_06_TapControl.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\bin\Debug\WinForm250522_06_TapControl.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\bin\Debug\WinForm250522_06_TapControl.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TabControl.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TapControl.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TapControl.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TabControl.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TabControl.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TapControl.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TapControl.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_06_TapControl\obj\Debug\WinForm250522_06_TapControl.exe.config

@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\bin\Debug\WinForm250520_myfirst.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\bin\Debug\WinForm250520_myfirst.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\bin\Debug\WinForm250520_myfirst.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250520_myfirst\obj\Debug\WinForm250520_myfirst.Form1.resources

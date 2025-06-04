@@ -1,0 +1,11 @@
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\bin\Debug\WinForm250525_SocketServerWinForm.exe.config
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\bin\Debug\WinForm250525_SocketServerWinForm.exe
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\bin\Debug\WinForm250525_SocketServerWinForm.pdb
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250528_SocketServerWinForm.csproj.AssemblyReference.cache
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250525_SocketServerWinForm.exe.config
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250525_SocketServerWinForm.Form1.resources
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250525_SocketServerWinForm.Properties.Resources.resources
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250528_SocketServerWinForm.csproj.GenerateResource.cache
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250528_SocketServerWinForm.csproj.CoreCompileInputs.cache
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250525_SocketServerWinForm.exe
+C:\Users\sehs3\Desktop\스마트팩토리\proj_Csharp\WinForm250528_SocketServerWinForm\obj\Debug\WinForm250525_SocketServerWinForm.pdb

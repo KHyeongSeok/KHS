@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\bin\Debug\WinForm250522_04_TrackBarProgressBar.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\bin\Debug\WinForm250522_04_TrackBarProgressBar.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\bin\Debug\WinForm250522_04_TrackBarProgressBar.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250522_04_TrackBarProgressBar\obj\Debug\WinForm250522_04_TrackBarProgressBar.exe.config

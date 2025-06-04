@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\bin\Debug\WinForm250521_03_ListBox.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\bin\Debug\WinForm250521_03_ListBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\bin\Debug\WinForm250521_03_ListBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_03_ListBox\obj\Debug\WinForm250521_03_ListBox.exe.config

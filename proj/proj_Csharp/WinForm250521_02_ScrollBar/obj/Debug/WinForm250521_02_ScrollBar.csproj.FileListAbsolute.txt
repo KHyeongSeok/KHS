@@ -1,0 +1,11 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\bin\Debug\WinForm250521_02_ScrollBar.exe.config
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\bin\Debug\WinForm250521_02_ScrollBar.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\bin\Debug\WinForm250521_02_ScrollBar.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.csproj.AssemblyReference.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.Form1.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.Properties.Resources.resources
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.csproj.GenerateResource.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\WinForm250521_02_ScrollBar\obj\Debug\WinForm250521_02_ScrollBar.exe.config

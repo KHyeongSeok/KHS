@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hj20250527_SocketServerConsole/1.0.0": {
+        "runtime": {
+          "hj20250527_SocketServerConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hj20250527_SocketServerConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\bin\Debug\net8.0\250519_getset.exe
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\bin\Debug\net8.0\250519_getset.deps.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\bin\Debug\net8.0\250519_getset.runtimeconfig.json
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\bin\Debug\net8.0\250519_getset.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\bin\Debug\net8.0\250519_getset.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.AssemblyInfoInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.AssemblyInfo.cs
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.csproj.CoreCompileInputs.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\refint\250519_getset.dll
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.pdb
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\250519_getset.genruntimeconfig.cache
+C:\Users\강형석\Desktop\스마트팩토리\proj_Csharp\250519_getset\obj\Debug\net8.0\ref\250519_getset.dll
